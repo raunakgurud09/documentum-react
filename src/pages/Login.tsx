@@ -34,7 +34,7 @@ export const Login = () => {
         <div className='px-36 h-screen flex justify-center items-start gap-5 flex-col bg-dark '>
           <div className='flex flex-col item-start'>
             <h1 className="text-4xl flex-col font-bold">
-              Documentum
+              Jarwiz
             </h1>
             <p className='text-xs font-medium'> Welcome! Sign in to your account</p>
           </div>
@@ -99,7 +99,7 @@ export const Login = () => {
 
         </div>
         <div className='absolute bottom-0 h-10 w-1/2 flex justify-between p-2 opacity-70 text-sm'>
-          <div>@ 2024 Documentum</div>
+          <div>@ 2024 Jarwiz</div>
           <div className='flex justify-center items-center space-x-4'>
             <p>Terms</p>
             <p>Privacy</p>
